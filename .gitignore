@@ -22,6 +22,5 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
 # MongoDB data directory
 ./blog-app-backend/mongo-db-data
