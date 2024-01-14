@@ -4,7 +4,6 @@ const ArticlesList = (
 ) => {
     return (
         <>
-            <h1>Articles</h1>
             {articles.map(
                 article => (
                     <Link 
